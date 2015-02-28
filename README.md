@@ -33,7 +33,7 @@
 
 ## 成都麦柯系统集成有限公司 (2002年03月 -- 2007年04月)
 
-### 基于 PHP, J2EE, Spring, Hibernate, Tapestry 完成了成都建信的历次改版。工作重心在于Tapestry层，并对用户体验进行优化。
-### 基于 J2EE, Spring, Hibernate, Tapestry 完成了重庆市公安局、交警总队网站及OA 的第一期，第二期建设。
-### 基于 PHP 完成了成都交通管理局网站及OA 的建设。
+ - 基于 PHP, J2EE, Spring, Hibernate, Tapestry 完成了成都建信的历次改版。工作重心在于Tapestry层，并对用户体验进行优化。
+ - 基于 J2EE, Spring, Hibernate, Tapestry 完成了重庆市公安局、交警总队网站及OA 的第一期，第二期建设。
+ - 基于 PHP 完成了成都交通管理局网站及OA 的建设。
 
