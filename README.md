@@ -25,7 +25,7 @@
 
     北美购物网站 www.sears.com - 基于语义分析的搜索与推荐
 
-> 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+> 整理中
 
 #### 四川川大软件工程研究所 (2007年04月 -- 2008年06月)
 
@@ -39,7 +39,8 @@
  - 基于 PHP 完成了成都交通管理局网站及OA 的建设。
 
 # 演讲和讲义
- - Couchbase
- - Linux 
+1. [Couchbase](https://github.com/jiangchuan2015/cv/blob/master/Couchbase.pptx)<br />
+2. [Linux](https://github.com/jiangchuan2015/cv/blob/master/Linux.pptx)<br />
+
 
 ---
