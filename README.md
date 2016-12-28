@@ -97,13 +97,13 @@
 
 # 近期关注
 -------------------------------------------------------------
- - 海量数据处理，Hadoop，Spark，Kafka Streaming 
+ - 海量数据处理，Hadoop，Spark，Kafka Streams 
  - 虚拟化技术，Docker, Kubernetes
  - 高并发 WEB 服务框架, 微服务架构
  - 敏捷开发，项目管理
 
 
-# 演讲和讲义
+# 培训讲义
 1. [Couchbase](https://github.com/jiangchuan2015/cv/blob/master/Couchbase.pptx)<br />
 2. [Linux](https://github.com/jiangchuan2015/cv/blob/master/Linux.pptx)<br />
 
