@@ -11,14 +11,15 @@
 # 技能概述
 -------------------------------------------------------------
  - 10<sup>+</sup> 年 Java 设计、开发、测试和实施经验。
- - 丰富的数据库设计和应用经验，如 MySQL, CouchBase, MongoDB。
+ - 丰富的数据库设计和应用经验，MySQL、CouchBase、MongoDB。
  - 熟悉 Linux 操作系统，熟练编写 Shell 脚本。
- - 熟练使用虚拟化技术，如 Docker, Kubernetes。
- - 熟练使用分布式消息及缓存系统，如 Kafka Queue, Memcached。
- - 熟练使用分布式系统及架构，如 Spring Cloud, Dubbo, Zookeeper。
+ - 熟练使用虚拟化技术，Docker、Kubernetes。
+ - 熟练使用分布式消息及缓存系统，Kafka Queue、Redis、Memcached。
+ - 熟练使用分布式系统及架构，Spring Cloud、Dubbo、Zookeeper。
  - 熟练使用 SVN / Git 等版本控制工具
- - 熟悉前端框架,如 Spring MVC, HTML, CSS, jQuery, AngularJS 等。
- - 了解大数据处理框架，如 Hadoop, Spark, Strom。
+ - 熟悉前端框架，Spring MVC, HTML, CSS, jQuery, AngularJS 等。
+ - 熟悉阿里云常用组件配置维护
+ - 了解大数据处理框架，如 Hadoop、Spark、Strom。
 
 
 # 工作经历
